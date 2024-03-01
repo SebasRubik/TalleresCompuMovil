@@ -44,3 +44,11 @@ Este proyecto es un taller práctico para la clase de Introducción a la Computa
 
 Este proyecto utiliza ConstraintLayout para la disposición de sus componentes UI, facilitando su adaptabilidad a diferentes tamaños de pantalla y orientaciones. La lógica para cargar y filtrar los destinos turísticos se maneja a través de actividades y el acceso a datos se realiza mediante la lectura de un archivo JSON.
 
+### Desarrollado por: Los Impedidos
+
+### Samuel Peña, Sebastián Córdoba, Tomás De Aza
+
+## Enlace al video demostrativo:
+
+https://youtu.be/VcEKBTTy1_4 
+
