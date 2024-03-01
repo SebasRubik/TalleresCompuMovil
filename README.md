@@ -44,16 +44,3 @@ Este proyecto es un taller práctico para la clase de Introducción a la Computa
 
 Este proyecto utiliza ConstraintLayout para la disposición de sus componentes UI, facilitando su adaptabilidad a diferentes tamaños de pantalla y orientaciones. La lógica para cargar y filtrar los destinos turísticos se maneja a través de actividades y el acceso a datos se realiza mediante la lectura de un archivo JSON.
 
-## Contribuir
-
-Si desea contribuir al proyecto, por favor considere las siguientes recomendaciones:
-
-- Realice un fork del proyecto.
-- Cree una rama para su característica (`git checkout -b feature/nuevaCaracteristica`).
-- Realice sus cambios y haga commit (`git commit -am 'Añadir alguna característica'`).
-- Suba su rama (`git push origin feature/nuevaCaracteristica`).
-- Abra un Pull Request.
-
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT - vea el archivo LICENSE.md para más detalles.
